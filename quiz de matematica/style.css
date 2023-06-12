@@ -1,0 +1,18 @@
+body { 
+    background: rgb(53, 35, 57); 
+}
+
+.login_div1 , .login_div2 
+{ 
+    background: white; padding: 10px; float: none; border-radius: 15px; 
+} 
+
+#player1_name , #player2_name 
+{ 
+    display: inline-block; margin-left: 20px; 
+}
+
+#texto
+{
+    background-color: white;
+}
